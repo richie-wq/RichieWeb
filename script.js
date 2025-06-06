@@ -12,6 +12,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
         }
     });
 
-    / / Set default theme 
+    // Set default theme 
     body.classList.add('light-mode');
 });
